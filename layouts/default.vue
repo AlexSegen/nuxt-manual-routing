@@ -1,10 +1,19 @@
 <template>
-  <div>
+  <div class="navbar">
+    <router-link to="/">Home</router-link>
+    <router-link to="/about">About</router-link>
     <nuxt/>
   </div>
 </template>
 
 <style>
+.navbar{
+  text-align: center;
+}
+
+.navbar a{
+  margin: 10px 5px;
+}
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;

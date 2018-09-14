@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        Home
+        About Page
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
@@ -21,7 +21,6 @@
     </div>
   </section>
 </template>
-
 <script>
 import AppLogo from '~/components/AppLogo.vue'
 
@@ -31,7 +30,6 @@ export default {
   }
 }
 </script>
-
 <style>
 .container {
   min-height: 100vh;
@@ -62,4 +60,3 @@ export default {
   padding-top: 15px;
 }
 </style>
-

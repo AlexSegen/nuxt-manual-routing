@@ -17,6 +17,19 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+/*
+  ** Customize modules
+  */
+  modules: [
+    //Custom Routing
+    '@nuxtjs/router'
+    //['@nuxtjs/router', { keepDefaultRouter: true }]
+    // Simple usage
+    //'~/modules/simple'
+
+    // Passing options
+    //['~/modules/simple', { token: '123' }]
+  ],
   /*
   ** Build configuration
   */
