@@ -1,4 +1,4 @@
-# gmg-nuxt
+# Nuxtjs: Manual Routing 
 
 > Nuxt.js project
 
