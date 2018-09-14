@@ -1,6 +1,6 @@
 # Nuxtjs: Manual Routing 
 
-> Nuxt.js project
+> You need this Module https://github.com/nuxt-community/router-module
 
 ## Build Setup
 
